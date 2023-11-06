@@ -19,12 +19,30 @@ export const LOCATION_OPTION = Object.values(LOCATION_LIST);
 
 export const LIST_ACTIVITIES_TRAVEL = {
   [EnumProvinceCode['HA_NOI']]: {
-    activities: ['aaaa', 'bbbb', 'cccc'],
+    activities: [
+      'Thăm Ngũ Hành Sơn - Hội An. Ăn tối tại Hội An(tour trọn gói giá 450k)',
+      'Khám phá chợ đêm Helio, thưởng thức ẩm thực đường phố và check in ở Cung Văn hóa Thiếu nhi',
+      'Ngắm bình minh và tắm biển Mỹ Khê',
+      'Khám phá ẩm thực 2 khu chợ nổi tiếng Đà Nẵng và mua quà cho người thân',
+      'Ngồi cafe Wunderlust số 96 Trần Phú, Hải Châu Đà Nẵng',
+    ],
   },
   [EnumProvinceCode['HO_CHI_MINH']]: {
-    activities: ['aaaa', 'bbbb', 'cccc'],
+    activities: [
+      'Thăm Ngũ Hành Sơn - Hội An. Ăn tối tại Hội An(tour trọn gói giá 450k)',
+      'Khám phá chợ đêm Helio, thưởng thức ẩm thực đường phố và check in ở Cung Văn hóa Thiếu nhi',
+      'Ngắm bình minh và tắm biển Mỹ Khê',
+      'Khám phá ẩm thực 2 khu chợ nổi tiếng Đà Nẵng và mua quà cho người thân',
+      'Ngồi cafe Wunderlust số 96 Trần Phú, Hải Châu Đà Nẵng',
+    ],
   },
   [EnumProvinceCode['DA_NANG']]: {
-    activities: ['aaaa', 'bbbb', 'cccc'],
+    activities: [
+      'Thăm Ngũ Hành Sơn - Hội An. Ăn tối tại Hội An(tour trọn gói giá 450k)',
+      'Khám phá chợ đêm Helio, thưởng thức ẩm thực đường phố và check in ở Cung Văn hóa Thiếu nhi',
+      'Ngắm bình minh và tắm biển Mỹ Khê',
+      'Khám phá ẩm thực 2 khu chợ nổi tiếng Đà Nẵng và mua quà cho người thân',
+      'Ngồi cafe Wunderlust số 96 Trần Phú, Hải Châu Đà Nẵng',
+    ],
   },
 };
