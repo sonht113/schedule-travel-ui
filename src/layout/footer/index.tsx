@@ -34,7 +34,7 @@ const FooterComponent = () => {
             </Typography>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <Typography variant="h5" className="!mb-5">
+            <Typography variant="h6" className="!mb-5">
               Quy định
             </Typography>
             <ul>
@@ -48,7 +48,7 @@ const FooterComponent = () => {
             </ul>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <Typography variant="h5" className="!mb-5">
+            <Typography variant="h6" className="!mb-5">
               Đăng ký cộng tác viên ngay{' '}
             </Typography>
             <img width={150} src={QR} alt="qr" />
