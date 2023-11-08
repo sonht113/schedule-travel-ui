@@ -125,7 +125,7 @@ const Home = () => {
           </Typography>
         </Box>
         <HomeForm control={control} errors={errors} watch={watch} />
-        <Box className="float-right mt-2">
+        <Box className="float-right mt-1">
           <Button variant="contained" color="error" size="small" type="submit">
             Build
           </Button>
